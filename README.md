@@ -4,9 +4,7 @@
 - 📫 How to reach me tarcisiosuporte@yahoo.com.br and Linkedin [Tarcisio Frederico no Linkedin ](https://www.linkedin.com/in/tarcísio-frederico-do-rosário-almeida-07269057/)
 
 
-AULA DE TUPLA E LISTA 
 
--- Arquivo view Estudo sobre Tupla, listas e Dicionários.
 
 <!---
 tarcisiosuporte/tarcisiosuporte is a ✨ special ✨ repository because its
